@@ -1,0 +1,69 @@
+body{
+
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.imagem-personagem{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 75px;
+    margin-top: 15px;
+    
+    
+}
+
+header{
+    background-color: rgb(1, 19, 19);
+    height: 130px;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.title-top{
+
+    color: rgb(255, 255, 255);
+    margin-left: 280px;
+    padding: auto;
+    margin-top: 40px;
+    position:absolute;
+    top:7px;
+    font-size: 35px;
+   
+    
+    
+    
+}
+nav{
+
+    display:inline-block;
+    flex: content;
+    
+}
+
+.p{
+
+  margin: 20px;
+  word-spacing: 7px;
+    
+}
+
+footer{
+
+    background-color: rgb(1, 19, 19);
+    height: 80px;
+    padding: 0 auto;
+    margin: 0 auto;
+
+}
+a{
+    color: azure;
+    align-items: center;
+    padding: auto;
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 20px;
+    
+    
+}
